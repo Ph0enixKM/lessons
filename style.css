@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+
+}
+table {
+    text-align: center;
+    width: 100vw;
+    font-family: Raleway, sans-serif;
+    word-wrap: break;
+}
+
+tr.lessons td {
+    background: #eee;
+    color: #222;
+}
+
+tr#header td {
+    padding: 10px;
+    color: white;
+    background-color: rgb(255,50,0);
+}
+
+td {
+    padding: 10px;
+}
